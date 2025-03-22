@@ -46,6 +46,7 @@ const translations = {
     "story.narration.start": "Start narration",
     "story.narration.stop": "Stop narration",
     "story.speed": "Speed",
+    "button.start":"Start the story",
 
     // Games
     "memory.title": "Memory Match",
@@ -163,6 +164,7 @@ const translations = {
     "story.narration.start": "कथन शुरू करें",
     "story.narration.stop": "कथन रोकें",
     "story.speed": "गति",
+    "button.start":"कहानी शुरू करें",
 
     // Games
     "memory.title": "स्मृति मिलान",

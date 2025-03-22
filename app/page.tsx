@@ -20,8 +20,8 @@ export default function HomePage() {
   const temples: Temple[] = [
     {
       id: 1,
-      name: "Temple A",
-      videoId: "QvOW1dE2-kI", // replace with actual YouTube video ID
+      name: "Sirdi Sai",
+      videoId: "RtlMoDHvn9g", // replace with actual YouTube video ID
       thumbnail: "/kuch_accha.jpg",
     },
     {
